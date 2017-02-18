@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: 0df32467f4e17402ba4db8bbb2dc9891
+timeCreated: 1480399272
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UnderwaterTilesVXPresetscrskeletonbioatomegadev_0
+    21300002: UnderwaterTilesVXPresetscrskeletonbioatomegadev_1
+    21300004: UnderwaterTilesVXPresetscrskeletonbioatomegadev_2
+    21300006: UnderwaterTilesVXPresetscrskeletonbioatomegadev_3
+    21300008: UnderwaterTilesVXPresetscrskeletonbioatomegadev_4
+    21300010: UnderwaterTilesVXPresetscrskeletonbioatomegadev_5
+    21300012: UnderwaterTilesVXPresetscrskeletonbioatomegadev_6
+    21300014: UnderwaterTilesVXPresetscrskeletonbioatomegadev_7
+    21300016: UnderwaterTilesVXPresetscrskeletonbioatomegadev_8
+    21300018: UnderwaterTilesVXPresetscrskeletonbioatomegadev_9
+    21300020: UnderwaterTilesVXPresetscrskeletonbioatomegadev_10
+    21300022: UnderwaterTilesVXPresetscrskeletonbioatomegadev_11
+    21300024: UnderwaterTilesVXPresetscrskeletonbioatomegadev_12
+    21300026: UnderwaterTilesVXPresetscrskeletonbioatomegadev_13
+    21300028: UnderwaterTilesVXPresetscrskeletonbioatomegadev_14
+    21300030: UnderwaterTilesVXPresetscrskeletonbioatomegadev_15
+    21300032: UnderwaterTilesVXPresetscrskeletonbioatomegadev_16
+    21300034: UnderwaterTilesVXPresetscrskeletonbioatomegadev_17
+    21300036: UnderwaterTilesVXPresetscrskeletonbioatomegadev_18
+    21300038: UnderwaterTilesVXPresetscrskeletonbioatomegadev_19
+    21300040: UnderwaterTilesVXPresetscrskeletonbioatomegadev_20
+    21300042: UnderwaterTilesVXPresetscrskeletonbioatomegadev_21
+    21300044: UnderwaterTilesVXPresetscrskeletonbioatomegadev_22
+    21300046: UnderwaterTilesVXPresetscrskeletonbioatomegadev_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UnderwaterTilesVXPresetscrskeletonbioatomegadev_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 204
+        width: 86
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnderwaterTilesVXPresetscrskeletonbioatomegadev_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 200
+        width: 116
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnderwaterTilesVXPresetscrskeletonbioatomegadev_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 180
+        width: 68
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnderwaterTilesVXPresetscrskeletonbioatomegadev_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 157
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnderwaterTilesVXPresetscrskeletonbioatomegadev_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 111
+        width: 89
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnderwaterTilesVXPresetscrskeletonbioatomegadev_5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 141
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnderwaterTilesVXPresetscrskeletonbioatomegadev_6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 92
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnderwaterTilesVXPresetscrskeletonbioatomegadev_7
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 136
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnderwaterTilesVXPresetscrskeletonbioatomegadev_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 114
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnderwaterTilesVXPresetscrskeletonbioatomegadev_9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 114
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnderwaterTilesVXPresetscrskeletonbioatomegadev_10
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 114
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnderwaterTilesVXPresetscrskeletonbioatomegadev_11
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 114
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnderwaterTilesVXPresetscrskeletonbioatomegadev_12
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 114
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnderwaterTilesVXPresetscrskeletonbioatomegadev_13
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 114
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnderwaterTilesVXPresetscrskeletonbioatomegadev_14
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 114
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnderwaterTilesVXPresetscrskeletonbioatomegadev_15
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 9
+        width: 62
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnderwaterTilesVXPresetscrskeletonbioatomegadev_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 97
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnderwaterTilesVXPresetscrskeletonbioatomegadev_17
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 97
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnderwaterTilesVXPresetscrskeletonbioatomegadev_18
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 97
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnderwaterTilesVXPresetscrskeletonbioatomegadev_19
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 97
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnderwaterTilesVXPresetscrskeletonbioatomegadev_20
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 97
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnderwaterTilesVXPresetscrskeletonbioatomegadev_21
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 97
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnderwaterTilesVXPresetscrskeletonbioatomegadev_22
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 97
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UnderwaterTilesVXPresetscrskeletonbioatomegadev_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 4
+        width: 134
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
